@@ -7,19 +7,25 @@ I'm a Front-end Developer looking for a job.
 import About_me from 'gmesmo'
 
 class Bio extends Developer {
-  name: "Guilherme Machado",
-  pronouns: "he/him",
-  title: "Front-end Developer",
-  status: "Looking for a job"
+  name= "Guilherme Machado",
+  pronouns= "he/him",
+  title= "Front-end Developer",
+  status= "Looking for a job as a Developer"
 }
 ```
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmesmo&show_icons=true&theme=midnight-purple" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmesmo&layput=compact&langs_count=16&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmesmo&layput=compact&langs_count=16&theme=midnight-purple" />
 </div>
 
 <h2>Know me better</h2>
-💻 Currently working with Customer Support on a IT Company
+<ul>
+  <li>💻 Currently working at OnSite Tecnologia as: IT Support, DBA, WhatsApp Automation Manager</li>
+  <li>😁 I'm confident with: HTML, CSS, JS
+  <li>⌨️ Learning: React JS, TypeScript, Vite, i18n</li>
+  <li>🤔 Next on my list: Tailwind, Vue, other React Components</li>
+</ul>
 
-More info coming soon ☺️
+
+<p>More info coming soon ☺️</p>
