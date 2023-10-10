@@ -11,7 +11,7 @@ class Bio extends Profile {
   location= "Osório - RS"
   title= "Front-end Developer",
   status= "Looking for a job as a Developer",
-  hobbies= "playing games and watch movies and anime"
+  hobbies= "playing games, watching movies and tv series"
 }
 ```
 
@@ -24,7 +24,7 @@ class Bio extends Profile {
 <ul>
   <li>💻 Currently working at OnSite Tecnologia as: IT Support, DBA, WhatsApp Automation Manager</li>
   <li>😁 I'm confident with: HTML, CSS, JS
-  <li>⌨️ Learning: React JS, TypeScript, Vite, i18n</li>
+  <li>⌨️ Learning: React JS, TypeScript, Vite, i18n, MUI</li>
   <li>🤔 Next on my list: Tailwind, Vue, other React Components</li>
 </ul>
 
