@@ -4,13 +4,14 @@
 I'm a Front-end Developer looking for a job.
 
 ```js
-import About_me from 'gmesmo'
+import Profile from 'gmesmo'
 
-class Bio extends Developer {
+class Bio extends Profile {
   name= "Guilherme Machado",
-  pronouns= "he/him",
+  location= "Osório - RS"
   title= "Front-end Developer",
-  status= "Looking for a job as a Developer"
+  status= "Looking for a job as a Developer",
+  hobbies= "playing games and watch movies and anime"
 }
 ```
 
