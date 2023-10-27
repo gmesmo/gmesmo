@@ -24,8 +24,8 @@ class Bio extends Profile {
 <ul>
   <li>💻 Currently working at OnSite Tecnologia as: IT Support, DBA, WhatsApp Automation Manager</li>
   <li>😁 I'm confident with: HTML, CSS, JS
-  <li>⌨️ Learning: React JS, TypeScript, Vite, i18n, MUI</li>
-  <li>🤔 Next on my list: Tailwind, Vue, other React Components</li>
+  <li>⌨️ Learning: React JS, TypeScript, Vite, i18n, Material UI, Tailwind</li>
+  <li>🤔 Next on my list: Vue && other React Components</li>
 </ul>
 
 
